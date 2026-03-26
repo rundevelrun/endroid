@@ -9,7 +9,7 @@
   [![License](https://img.shields.io/badge/license-Free-brightgreen)](https://github.com/rundevelrun/endroid/releases)
   [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/rundevelrun/endroid/releases/latest)
 
-  **🚧 Coming Soon — 준비중입니다**
+  **🚧 Coming Soon**
 
 </div>
 
@@ -35,7 +35,7 @@ Game controls, macro recording, multi-instance support — all built-in. No subs
 
 ## Why Endroid?
 
-| | Endroid | Genymotion | BlueStacks |
+| | Endroid | G******** | B******** |
 |---|---|---|---|
 | Price | **Free** | $136+/yr | Free* |
 | Android Version | **Android 15** | Android 14 | Android 11 |
